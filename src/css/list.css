@@ -1,0 +1,40 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.sidemenu{
+    height: 350px;
+    width: 200px;
+    border: 2px solid black;
+}
+.flex{
+    display: flex;
+}
+.employ{
+    margin: 20px;
+}
+fieldset{
+    width: 800px;
+    height: 200px;
+}
+label, button{
+    margin: 50px;
+}
+select{
+    width: 500px;
+}
+#mine{
+    /* padding-top: 20px; */
+    margin-left: 35px;
+}
+#mine1{
+    margin-left: 20px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+.show{
+    margin-top: 50px;
+}
